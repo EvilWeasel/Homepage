@@ -18,6 +18,7 @@
   "homepage": "https://github.com/EvilWeasel/Homepage#readme",
   "dependencies": {
     "express": "4.17.3",
+    "node-fetch": "2.6.7",
     "pug": "3.0.2"
   },
   "devDependencies": {
